@@ -1,0 +1,5 @@
+jouhen = 10
+kahen =20
+takasa =5
+
+print((jouhen+kahen)*takasa/2,"cm²")
